@@ -1,6 +1,5 @@
 {
   "ignoredFiles": [
-    "Screen Shot*",
-    "a/**/*.png"
+    "Screen Shot*"
   ]
 }
